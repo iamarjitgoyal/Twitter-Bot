@@ -1,7 +1,10 @@
 import tweepy
+import tk
 import random
 import requests
 import datetime
+from tkinter import *
+
 
 # Set up the API credentials
 CONSUMER_KEY = 'your_consumer_key'
